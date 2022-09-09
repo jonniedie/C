@@ -1,0 +1,19 @@
+# This file is machine-generated - editing it directly is not advised
+
+julia_version = "1.8.0"
+manifest_format = "2.0"
+project_hash = "db33cd78d92c38256021aa834802c0d3ee92bab6"
+
+[[deps.A]]
+git-tree-sha1 = "ed234bf43906a6720e9fcea532a6f7934154b104"
+repo-rev = "master"
+repo-url = "https://github.com/jonniedie/A"
+uuid = "54da0ab0-5623-4a55-b092-ced456fdb3ec"
+version = "0.1.0"
+
+[[deps.B]]
+git-tree-sha1 = "3acec8d19609952d86a72fe71d770670fd3c5654"
+repo-rev = "master"
+repo-url = "https://github.com/jonniedie/B"
+uuid = "f044e302-b718-4ce6-8b9c-3ec331cdaa45"
+version = "0.1.0"
