@@ -2,3 +2,7 @@ name = "C"
 uuid = "64d1dad3-be38-4c86-a90f-53c021f61e4d"
 authors = ["Jonnie Diegelman <jonniediegelman@gmail.com>"]
 version = "0.1.0"
+
+[deps]
+A = "54da0ab0-5623-4a55-b092-ced456fdb3ec"
+B = "f044e302-b718-4ce6-8b9c-3ec331cdaa45"
